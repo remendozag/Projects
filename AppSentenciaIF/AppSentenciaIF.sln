@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSentenciaIF", "AppSentenciaIF\AppSentenciaIF.csproj", "{433A50CD-2913-4AC6-BF87-39E4777C9020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433A50CD-2913-4AC6-BF87-39E4777C9020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433A50CD-2913-4AC6-BF87-39E4777C9020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433A50CD-2913-4AC6-BF87-39E4777C9020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433A50CD-2913-4AC6-BF87-39E4777C9020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
